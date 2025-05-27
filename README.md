@@ -32,3 +32,5 @@ simpleBirthdayLetterInviter/
 2. It loads the letter template from `letter_template.txt`.
 3. For each name, it replaces `[name]` in the template with the actual name.
 4. The personalized letters are saved in the `Output/` directory.
+
+🙌 Credits Created by Filip Matevski
